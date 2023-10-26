@@ -1,0 +1,11 @@
+{
+  "applinks": {
+      "apps": [],
+      "details": [
+      {
+        "appID": "VB25NALBLZ.kr.co.i-gns.hatna-pub",
+        "paths": ["*"]
+      }
+    ]
+  }
+}
