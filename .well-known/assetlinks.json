@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "kr.co.i_gns.hatna_pub",
+      "sha256_cert_fingerprints": [
+        "5B:49:AD:6A:C4:31:48:E5:8F:6C:2E:C9:92:AE:0C:6E:D0:63:1D:5C:A1:26:33:CC:9B:F5:A5:97:7D:50:CB:FA"
+      ]
+    }
+  }
+]
